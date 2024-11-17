@@ -55,12 +55,7 @@ const Footer = () => {
         </div>
 
         {/* Owned and Maintained Section */}
-        <div >
-          <h1 className="text-white font-bold ">Website owned and maintained by</h1>
-          <p className='text-yellow-200'>Creators Club Private Limited</p>
-          <p className='text-yellow-200'>Plot no 928, UK, London</p>
-          <p className='text-yellow-200'>genix@gmail.com</p>
-        </div>
+      
       </div>
 
       {/* Social Media and Logo Section */}
